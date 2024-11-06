@@ -1,0 +1,15 @@
+To Open a file in Google Colab, you can follow the following steps
+1.Open Google colab in our webbrowser
+2. Within your colab notebook, click on the folder icon on the left sides=bar to open the file explorer
+3.click on the UPLOAD button, and choose the file you want to upload from your local machine 
+4.Open prediction performance folder and select the file named predict(2)
+3.Once uploaded , you can access the file by its name(predict(2))
+
+
+
+
+HOW TO OPEN THE SOFTWARE
+1.OPEN THE PERFORMANCE_PREDICT FOLD WITH VISUAL STUDIO CODE
+2.LOCATE THE TERMINAL
+3.TYPE IN myevn\Scripts/activate
+4.THEN insert python ap.py
